@@ -10,7 +10,7 @@ int main(int argc, char *argv[])
      {
         printf("%c%d\t",alpha,code);
      }
-     printf('\n');
+     putchar('\n');
   }
   system("PAUSE");	
   return 0;
