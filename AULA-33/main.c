@@ -13,8 +13,8 @@ int main()
     result = bor | SET;
 
     printf("\t%s\t%d\n",binbin(bor),bor);
-    printf("|t%s\t%d\n",binbin(SET),SET);
-    printf("=t%s\t%d\n",binbin(result),result);
+    printf("|\t%s\t%d\n",binbin(SET),SET);
+    printf("=\t%s\t%d\n",binbin(result),result);
     return 0;
 }
 char *binbin(int n)
