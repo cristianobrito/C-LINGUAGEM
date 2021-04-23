@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619199068 source:c:\users\brito\desktop\c\escrever-arquivo\main.c
+	<stdio.h>
+	<stdlib.h>
+
