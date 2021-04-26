@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619456516 source:c:\users\brito\desktop\c\ler-03\main.c
+	<stdio.h>
+	<stdlib.h>
+
