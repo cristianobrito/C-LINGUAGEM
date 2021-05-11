@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620755301 source:c:\users\brito\desktop\c\extraindo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
